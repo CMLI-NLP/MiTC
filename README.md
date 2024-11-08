@@ -28,3 +28,7 @@ BibTeX:
   keywords={Soft sensors;Text categorization;Social sciences;Government;Data acquisition;Morphology;Data models;Multilingual;Pre-trained language model;Datasets;Word2vec},
   doi={10.1109/SMC53992.2023.10393961}}
 ```
+
+## Disclaimer
+
+This dataset/model is for academic research purposes only. Prohibited for any commercial or unethical purposes.
