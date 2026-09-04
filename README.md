@@ -6,9 +6,11 @@
 
 We also use [MiLMo](https://github.com/CMLI-NLP/MiLMo) for the downstream experiment of text classification on MiTC.
 
-## Hugging Face
+Please contact Yuan Sun (sunyuan@muc.edu.cn) to obtain the dataset.
 
-https://huggingface.co/datasets/CMLI-NLP/MiTC
+~~## Hugging Face~~
+
+~~https://huggingface.co/datasets/CMLI-NLP/MiTC~~
 
 ## Citation
 
